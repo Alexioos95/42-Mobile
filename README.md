@@ -1,4 +1,4 @@
-## [0 - piscine](https://github.com/Alexioos95/42-mobile/tree/main/0_piscine)
+## [0 - piscine](https://github.com/Alexioos95/42-Mobile/tree/main/0%20-%20piscine)
 
 > [!IMPORTANT]  
 > Les moyens mis à notre disposition pour le développement mobile à l'école étant extrèmement limité, j'ai du me débrouiller avec Metro, en exportation web. Des bugs et crashs sont donc très fortement probable en cas de compilation.
